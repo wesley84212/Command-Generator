@@ -4,7 +4,7 @@ function compareTwoStrings(first, second) {
 	second = second.replace(/\s+/g, '');
     if (!first.length && !second.length) return 1;
     if (!first.length || !second.length) return 0;
-    if (first === second) return 1;                             
+    if (first === second) return 1;
     if (first.length === 1 && second.length === 1) return 0;
     if (first.length < 2 || second.length < 2) return 0;
 
@@ -13,10 +13,7 @@ function compareTwoStrings(first, second) {
 	for (let i = 0; i < first.length - 1; i++) {
         for(let j= i + 1 ; j < first.length; j++){
             const bigram = first[i]+first[j]
-            const count = firstBigrams.has(bigram)
-                ? firstBigrams.get(bigram) + 1
-                : 1;
-                firstTotalCount+= count
+            firstTotalCount+= 1
             firstBigrams.set(bigram, firstTotalCount);
         }
     };
@@ -36,7 +33,15 @@ function compareTwoStrings(first, second) {
             }
         }
     }
-    return (2.0 * intersectionSize) / ((firstTotalCount + secondTotalCount - 2)*0.8);  //0.8 weight 暫定
+    let weight = 0;
+    let compareTotal = (firstTotalCount + secondTotalCount - 2);
+    if(compareTotal >6) {
+        weight = 1;
+    }else{
+        weight = 0.8;
+    }
+
+    return ((2.0 * intersectionSize) / ((compareTotal))*weight);
 }
 function findBestMatch(mainString, stringArray) {
 
