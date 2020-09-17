@@ -1,4 +1,4 @@
-function compareTwoStrings(first, second) {
+compareTwoStrings = (first, second) => {
 
 	first = first.replace(/\s+/g, '');
 	second = second.replace(/\s+/g, '');
@@ -43,9 +43,12 @@ function compareTwoStrings(first, second) {
 
     return ((2.0 * intersectionSize) / ((compareTotal))*weight);
 }
-function findBestMatch(mainString, stringArray) {
 
-    if (!inputValid(mainString, stringArray)) throw new Error('Bad arguments: First argument should be a string, second should be an array');
+findBestMatch = (mainString, stringArray) => {
+
+    if (!inputValid(mainString, stringArray)) {
+        throw new Error('data formate is error')
+    };
     const ratings = [];
     let bestMatchIndex = 0;
     for(let i = 0; i < stringArray.length; i++) {
@@ -60,8 +63,8 @@ function findBestMatch(mainString, stringArray) {
     const bestMatch = ratings[bestMatchIndex];
     return {ratings, bestMatch, bestMatchIndex}
 }
-
-function inputValid(mainString, stringArray) {
+ 
+inputValid = (mainString, stringArray) => {
     if (typeof mainString !== 'string') return false;
     if (!Array.isArray(stringArray)) return false;
     if (!stringArray.length) return false;

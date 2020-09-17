@@ -1,0 +1,4424 @@
+{
+  "afconvert": {
+    "description": "Audio File Convert",
+    "options": {},
+    "typo": [
+      "afconvert",
+      "afocnvert",
+      "afoncvert",
+      "afonvcert",
+      "afonvecrt",
+      "afcnovert",
+      "afncovert",
+      "afnocvert",
+      "afnovcert",
+      "afnovecrt"
+    ]
+  },
+  "afinfo": {
+    "description": "Audio File Info",
+    "options": {},
+    "typo": [
+      "afinfo",
+      "fainfo",
+      "fianfo",
+      "finafo",
+      "finfao",
+      "finfoa",
+      "aifnfo",
+      "iafnfo",
+      "ifanfo",
+      "ifnafo"
+    ]
+  },
+  "afplay": {
+    "description": "Audio File Play",
+    "options": {},
+    "typo": [
+      "afplay",
+      "faplay",
+      "fpalay",
+      "fplaay",
+      "fplaay",
+      "fplaya",
+      "apflay",
+      "paflay",
+      "pfalay",
+      "pflaay"
+    ]
+  },
+  "airport": {
+    "description": "Manage Apple AirPort",
+    "options": {},
+    "typo": [
+      "airport",
+      "aiprort",
+      "aiporrt",
+      "airoprt",
+      "aiorprt",
+      "aioprrt"
+    ]
+  },
+  "alias": {
+    "description": "Create an alias •",
+    "options": {},
+    "typo": [
+      "alias",
+      "laias",
+      "liaas",
+      "liaas",
+      "liasa",
+      "ailas",
+      "ialas",
+      "ilaas",
+      "ilaas",
+      "ilasa"
+    ]
+  },
+  "alloc": {
+    "description": "List used and free memory",
+    "options": {},
+    "typo": [
+      "alloc",
+      "laloc",
+      "llaoc",
+      "lloac",
+      "lloca",
+      "alloc",
+      "laloc",
+      "llaoc",
+      "lloac",
+      "lloca"
+    ]
+  },
+  "apropos": {
+    "description": "Search the whatis database for strings",
+    "options": {},
+    "typo": [
+      "apropos",
+      "aporpos",
+      "apopros",
+      "aprpoos",
+      "approos",
+      "apporos"
+    ]
+  },
+  "asr": {
+    "description": "Apple Software Restore",
+    "options": {},
+    "typo": [
+      "asr",
+      "sar",
+      "sra",
+      "ars",
+      "ras",
+      "rsa"
+    ]
+  },
+  "atsutil": {
+    "description": "Font registration system utility",
+    "options": {},
+    "typo": [
+      "atsutil",
+      "atustil",
+      "atutsil",
+      "atstuil",
+      "attsuil",
+      "attusil"
+    ]
+  },
+  "automator": {
+    "description": "Run an Automator workflow",
+    "options": {},
+    "typo": [
+      "automator",
+      "auotmator",
+      "auomtator",
+      "auomattor",
+      "auomattor",
+      "autmoator",
+      "aumtoator",
+      "aumotator",
+      "aumoattor",
+      "aumoattor"
+    ]
+  },
+  "awk": {
+    "description": "Find and Replace text within file(s)",
+    "options": {},
+    "typo": [
+      "awk",
+      "wak",
+      "wka",
+      "akw",
+      "kaw",
+      "kwa"
+    ]
+  },
+  "basename": {
+    "description": "Convert a full pathname to just a filename",
+    "options": {},
+    "typo": [
+      "basename",
+      "baesname",
+      "baensame",
+      "baenasme",
+      "basneame",
+      "banseame",
+      "banesame",
+      "baneasme",
+      "basnaeme",
+      "bansaeme"
+    ]
+  },
+  "bash": {
+    "description": "Bourne-Again SHell",
+    "options": {},
+    "typo": [
+      "bash",
+      "absh",
+      "asbh",
+      "ashb",
+      "bsah",
+      "sbah",
+      "sabh",
+      "sahb",
+      "bsha",
+      "sbha"
+    ]
+  },
+  "bc": {
+    "description": "Arbitrary precision calculator language",
+    "options": {},
+    "typo": [
+      "bc",
+      "cb"
+    ]
+  },
+  "bg": {
+    "description": "Send to background •",
+    "options": {},
+    "typo": [
+      "bg",
+      "gb"
+    ]
+  },
+  "bind": {
+    "description": "Set or display readline key and function bindings •",
+    "options": {},
+    "typo": [
+      "bind",
+      "ibnd",
+      "inbd",
+      "indb",
+      "bnid",
+      "nbid",
+      "nibd",
+      "nidb",
+      "bndi",
+      "nbdi"
+    ]
+  },
+  "bless": {
+    "description": "Set volume bootability and startup disk options",
+    "options": {},
+    "typo": [
+      "bless",
+      "lbess",
+      "lebss",
+      "lesbs",
+      "lessb",
+      "belss",
+      "eblss",
+      "elbss",
+      "elsbs",
+      "elssb"
+    ]
+  },
+  "break": {
+    "description": "Exit from a For, While, Until or Select loop •",
+    "options": {},
+    "typo": [
+      "break",
+      "rbeak",
+      "rebak",
+      "reabk",
+      "reakb",
+      "berak",
+      "ebrak",
+      "erbak",
+      "erabk",
+      "erakb"
+    ]
+  },
+  "builtin": {
+    "description": "Execute a shell builtin •",
+    "options": {},
+    "typo": [
+      "builtin",
+      "bulitin",
+      "bultiin",
+      "buitlin",
+      "butilin",
+      "butliin"
+    ]
+  },
+  "bzip2": {
+    "description": "Compress or decompress files",
+    "options": {},
+    "typo": [
+      "bzip2",
+      "zbip2",
+      "zibp2",
+      "zipb2",
+      "zip2b",
+      "bizp2",
+      "ibzp2",
+      "izbp2",
+      "izpb2",
+      "izp2b"
+    ]
+  },
+  "caffeinate": {
+    "description": "Prevent the system from sleeping",
+    "options": {},
+    "typo": [
+      "caffeinate",
+      "caffeinate",
+      "cafefinate",
+      "cafeifnate",
+      "cafeinfate",
+      "cafeinafte",
+      "cafefinate",
+      "caeffinate",
+      "caeffinate",
+      "caefifnate"
+    ]
+  },
+  "cal": {
+    "description": "Display a calendar",
+    "options": {},
+    "typo": [
+      "cal",
+      "acl",
+      "alc",
+      "cla",
+      "lca",
+      "lac"
+    ]
+  },
+  "calendar": {
+    "description": "Reminder Service",
+    "options": {},
+    "typo": [
+      "calendar",
+      "caelndar",
+      "caenldar",
+      "caendlar",
+      "calnedar",
+      "canledar",
+      "caneldar",
+      "canedlar",
+      "calndear",
+      "canldear"
+    ]
+  },
+  "caller": {
+    "description": "Return the context of a subroutine call •",
+    "options": {},
+    "typo": [
+      "caller",
+      "acller",
+      "alcler",
+      "allcer",
+      "allecr",
+      "allerc",
+      "claler",
+      "lcaler",
+      "lacler",
+      "lalcer"
+    ]
+  },
+  "cancel": {
+    "description": "Cancel print jobs",
+    "options": {},
+    "typo": [
+      "cancel",
+      "acncel",
+      "anccel",
+      "anccel",
+      "ancecl",
+      "ancelc",
+      "cnacel",
+      "ncacel",
+      "naccel",
+      "naccel"
+    ]
+  },
+  "case": {
+    "description": "Conditionally perform a command •",
+    "options": {},
+    "typo": [
+      "case",
+      "acse",
+      "asce",
+      "asec",
+      "csae",
+      "scae",
+      "sace",
+      "saec",
+      "csea",
+      "scea"
+    ]
+  },
+  "cat": {
+    "description": "Concatenate and print (display) the content of files",
+    "options": {},
+    "typo": [
+      "cat",
+      "act",
+      "atc",
+      "cta",
+      "tca",
+      "tac"
+    ]
+  },
+  "cd": {
+    "description": "Change Directory •",
+    "options": {},
+    "typo": [
+      "cd",
+      "dc"
+    ]
+  },
+  "chflags": {
+    "description": "Change a file or folder's flags",
+    "options": {},
+    "typo": [
+      "chflags",
+      "chlfags",
+      "chlafgs",
+      "chfalgs",
+      "chaflgs",
+      "chalfgs"
+    ]
+  },
+  "chgrp": {
+    "description": "Change group ownership",
+    "options": {},
+    "typo": [
+      "chgrp",
+      "hcgrp",
+      "hgcrp",
+      "hgrcp",
+      "hgrpc",
+      "cghrp",
+      "gchrp",
+      "ghcrp",
+      "ghrcp",
+      "ghrpc"
+    ]
+  },
+  "chmod": {
+    "description": "Change access permissions",
+    "options": {},
+    "typo": [
+      "chmod",
+      "hcmod",
+      "hmcod",
+      "hmocd",
+      "hmodc",
+      "cmhod",
+      "mchod",
+      "mhcod",
+      "mhocd",
+      "mhodc"
+    ]
+  },
+  "chown": {
+    "description": "Change file owner and group",
+    "options": {},
+    "typo": [
+      "chown",
+      "hcown",
+      "hocwn",
+      "howcn",
+      "hownc",
+      "cohwn",
+      "ochwn",
+      "ohcwn",
+      "ohwcn",
+      "ohwnc"
+    ]
+  },
+  "chroot": {
+    "description": "Run a command with a different root directory",
+    "options": {},
+    "typo": [
+      "chroot",
+      "hcroot",
+      "hrcoot",
+      "hrocot",
+      "hrooct",
+      "hrootc",
+      "crhoot",
+      "rchoot",
+      "rhcoot",
+      "rhocot"
+    ]
+  },
+  "cksum": {
+    "description": "Print CRC checksum and byte counts",
+    "options": {},
+    "typo": [
+      "cksum",
+      "kcsum",
+      "kscum",
+      "ksucm",
+      "ksumc",
+      "cskum",
+      "sckum",
+      "skcum",
+      "skucm",
+      "skumc"
+    ]
+  },
+  "clear": {
+    "description": "Clear terminal screen",
+    "options": {},
+    "typo": [
+      "clear",
+      "lcear",
+      "lecar",
+      "leacr",
+      "learc",
+      "celar",
+      "eclar",
+      "elcar",
+      "elacr",
+      "elarc"
+    ]
+  },
+  "cmp": {
+    "description": "Compare two files",
+    "options": {},
+    "typo": [
+      "cmp",
+      "mcp",
+      "mpc",
+      "cpm",
+      "pcm",
+      "pmc"
+    ]
+  },
+  "comm": {
+    "description": "Compare two sorted files line by line",
+    "options": {},
+    "typo": [
+      "comm",
+      "ocmm",
+      "omcm",
+      "ommc",
+      "cmom",
+      "mcom",
+      "mocm",
+      "momc",
+      "cmmo",
+      "mcmo"
+    ]
+  },
+  "command": {
+    "description": "Run a command (not a function) •",
+    "options": {},
+    "typo": [
+      "command",
+      "command",
+      "comamnd",
+      "comamnd",
+      "coammnd",
+      "coammnd"
+    ]
+  },
+  "complete": {
+    "description": "Edit a command completion [word/pattern/list] •",
+    "options": {},
+    "typo": [
+      "complete",
+      "copmlete",
+      "coplmete",
+      "coplemte",
+      "comlpete",
+      "colmpete",
+      "colpmete",
+      "colpemte",
+      "comlepte",
+      "colmepte"
+    ]
+  },
+  "continue": {
+    "description": "Resume the next iteration of a loop •",
+    "options": {},
+    "typo": [
+      "continue",
+      "cotninue",
+      "cotinnue",
+      "cotinnue",
+      "conitnue",
+      "cointnue",
+      "coitnnue",
+      "coitnnue",
+      "conintue",
+      "coinntue"
+    ]
+  },
+  "cp": {
+    "description": "Copy one or more files to another location",
+    "options": {},
+    "typo": [
+      "cp",
+      "pc"
+    ]
+  },
+  "cpio": {
+    "description": "Copy files to and from archives",
+    "options": {},
+    "typo": [
+      "cpio",
+      "pcio",
+      "pico",
+      "pioc",
+      "cipo",
+      "icpo",
+      "ipco",
+      "ipoc",
+      "ciop",
+      "icop"
+    ]
+  },
+  "createhomedir": {
+    "description": "Create and populate home directories on the local computer",
+    "options": {},
+    "typo": [
+      "createhomedir",
+      "creaethomedir",
+      "creaehtomedir",
+      "creaehotmedir",
+      "creaehomtedir",
+      "creatheomedir",
+      "creahteomedir",
+      "creahetomedir",
+      "creaheotmedir",
+      "creaheomtedir"
+    ]
+  },
+  "cron": {
+    "description": "Daemon to execute scheduled commands",
+    "options": {},
+    "typo": [
+      "cron",
+      "rcon",
+      "rocn",
+      "ronc",
+      "corn",
+      "ocrn",
+      "orcn",
+      "ornc",
+      "conr",
+      "ocnr"
+    ]
+  },
+  "crontab": {
+    "description": "Schedule a command to run at a later date/time",
+    "options": {},
+    "typo": [
+      "crontab",
+      "crnotab",
+      "crntoab",
+      "crotnab",
+      "crtonab",
+      "crtnoab"
+    ]
+  },
+  "csplit": {
+    "description": "Split a file into context-determined pieces",
+    "options": {},
+    "typo": [
+      "csplit",
+      "scplit",
+      "spclit",
+      "splcit",
+      "splict",
+      "splitc",
+      "cpslit",
+      "pcslit",
+      "psclit",
+      "pslcit"
+    ]
+  },
+  "csrutil": {
+    "description": "Configure System Integrity Protection (SIP)",
+    "options": {},
+    "typo": [
+      "csrutil",
+      "csurtil",
+      "csutril",
+      "csrtuil",
+      "cstruil",
+      "csturil"
+    ]
+  },
+  "cupsfilter": {
+    "description": "Convert a file to another format using cups filters",
+    "options": {},
+    "typo": [
+      "cupsfilter",
+      "cuspfilter",
+      "cusfpilter",
+      "cusfiplter",
+      "cusfilpter",
+      "cusfiltper",
+      "cupfsilter",
+      "cufpsilter",
+      "cufspilter",
+      "cufsiplter"
+    ]
+  },
+  "curl": {
+    "description": "Transfer data  from or to a server",
+    "options": {},
+    "typo": [
+      "curl",
+      "ucrl",
+      "urcl",
+      "urlc",
+      "crul",
+      "rcul",
+      "rucl",
+      "rulc",
+      "crlu",
+      "rclu"
+    ]
+  },
+  "cut": {
+    "description": "Divide a file into several parts",
+    "options": {},
+    "typo": [
+      "cut",
+      "uct",
+      "utc",
+      "ctu",
+      "tcu",
+      "tuc"
+    ]
+  },
+  "date": {
+    "description": "Display or change the date & time",
+    "options": {},
+    "typo": [
+      "date",
+      "adte",
+      "atde",
+      "ated",
+      "dtae",
+      "tdae",
+      "tade",
+      "taed",
+      "dtea",
+      "tdea"
+    ]
+  },
+  "dc": {
+    "description": "Desk Calculator",
+    "options": {},
+    "typo": [
+      "dc",
+      "cd"
+    ]
+  },
+  "dd": {
+    "description": "Data Duplicator - convert and copy a file, clone disks",
+    "options": {},
+    "typo": [
+      "dd",
+      "dd"
+    ]
+  },
+  "declare": {
+    "description": "Declare variable & set attributes •",
+    "options": {},
+    "typo": [
+      "declare",
+      "delcare",
+      "delacre",
+      "decalre",
+      "deaclre",
+      "dealcre"
+    ]
+  },
+  "defaults": {
+    "description": "Set preferences, show hidden files",
+    "options": {},
+    "typo": [
+      "defaults",
+      "deafults",
+      "deauflts",
+      "deaulfts",
+      "defualts",
+      "deufalts",
+      "deuaflts",
+      "deualfts",
+      "defulats",
+      "deuflats"
+    ]
+  },
+  "df": {
+    "description": "Display free disk space",
+    "options": {},
+    "typo": [
+      "df",
+      "fd"
+    ]
+  },
+  "diff": {
+    "description": "Display the differences between two files",
+    "options": {},
+    "typo": [
+      "diff",
+      "idff",
+      "ifdf",
+      "iffd",
+      "dfif",
+      "fdif",
+      "fidf",
+      "fifd",
+      "dffi",
+      "fdfi"
+    ]
+  },
+  "diff3": {
+    "description": "Show differences among three files",
+    "options": {},
+    "typo": [
+      "diff3",
+      "idff3",
+      "ifdf3",
+      "iffd3",
+      "iff3d",
+      "dfif3",
+      "fdif3",
+      "fidf3",
+      "fifd3",
+      "fif3d"
+    ]
+  },
+  "dig": {
+    "description": "DNS lookup",
+    "options": {},
+    "typo": [
+      "dig",
+      "idg",
+      "igd",
+      "dgi",
+      "gdi",
+      "gid"
+    ]
+  },
+  "dirname": {
+    "description": "Convert a full pathname to just a path",
+    "options": {},
+    "typo": [
+      "dirname",
+      "dinrame",
+      "dinarme",
+      "diranme",
+      "diarnme",
+      "dianrme"
+    ]
+  },
+  "dirs": {
+    "description": "Display list of remembered directories •",
+    "options": {},
+    "typo": [
+      "dirs",
+      "idrs",
+      "irds",
+      "irsd",
+      "dris",
+      "rdis",
+      "rids",
+      "risd",
+      "drsi",
+      "rdsi"
+    ]
+  },
+  "diskutil": {
+    "description": "Disk utilities - Format, Verify, Repair",
+    "options": {},
+    "typo": [
+      "diskutil",
+      "diksutil",
+      "dikustil",
+      "dikutsil",
+      "disuktil",
+      "diusktil",
+      "diukstil",
+      "diuktsil",
+      "disutkil",
+      "diustkil"
+    ]
+  },
+  "disown": {
+    "description": "Unbind a job from the current login session •",
+    "options": {},
+    "typo": [
+      "disown",
+      "idsown",
+      "isdown",
+      "isodwn",
+      "isowdn",
+      "isownd",
+      "dsiown",
+      "sdiown",
+      "sidown",
+      "siodwn"
+    ]
+  },
+  "ditto": {
+    "description": "Copy files and folders",
+    "options": {},
+    "typo": [
+      "ditto",
+      "idtto",
+      "itdto",
+      "ittdo",
+      "ittod",
+      "dtito",
+      "tdito",
+      "tidto",
+      "titdo",
+      "titod"
+    ]
+  },
+  "dot_clean": {
+    "description": "Remove dot-underscore files",
+    "options": {},
+    "typo": [
+      "dot_clean",
+      "do_tclean",
+      "do_ctlean",
+      "do_cltean",
+      "do_cletan",
+      "dotc_lean",
+      "doct_lean",
+      "doc_tlean",
+      "doc_ltean",
+      "doc_letan"
+    ]
+  },
+  "drutil": {
+    "description": "Interact with CD/DVD burners",
+    "options": {},
+    "typo": [
+      "drutil",
+      "rdutil",
+      "rudtil",
+      "rutdil",
+      "rutidl",
+      "rutild",
+      "durtil",
+      "udrtil",
+      "urdtil",
+      "urtdil"
+    ]
+  },
+  "dscacheutil": {
+    "description": "Query or flush the Directory Service/DNS cache",
+    "options": {},
+    "typo": [
+      "dscacheutil",
+      "dsaccheutil",
+      "dsaccheutil",
+      "dsachceutil",
+      "dsachecutil",
+      "dsacheuctil",
+      "dsacheutcil",
+      "dsccaheutil",
+      "dsccaheutil",
+      "dscacheutil"
+    ]
+  },
+  "dseditgroup": {
+    "description": "Edit, create, manipulate, or delete groups",
+    "options": {},
+    "typo": [
+      "dseditgroup",
+      "dsdeitgroup",
+      "dsdietgroup",
+      "dsditegroup",
+      "dsditgeroup",
+      "dsditgreoup",
+      "dsditgroeup",
+      "dseidtgroup",
+      "dsiedtgroup",
+      "dsidetgroup"
+    ]
+  },
+  "dsenableroot": {
+    "description": "Enable root access",
+    "options": {},
+    "typo": [
+      "dsenableroot",
+      "dsneableroot",
+      "dsnaebleroot",
+      "dsnabeleroot",
+      "dsnableeroot",
+      "dsnableeroot",
+      "dsnablereoot",
+      "dsnableroeot",
+      "dseanbleroot",
+      "dsaenbleroot"
+    ]
+  },
+  "dsmemberutil": {
+    "description": "View user and groups rights",
+    "options": {},
+    "typo": [
+      "dsmemberutil",
+      "dsemmberutil",
+      "dsemmberutil",
+      "dsembmerutil",
+      "dsembemrutil",
+      "dsembermutil",
+      "dsemberumtil",
+      "dsemberutmil",
+      "dsmmeberutil",
+      "dsmmeberutil"
+    ]
+  },
+  "dscl": {
+    "description": "Directory Service command line utility",
+    "options": {},
+    "typo": [
+      "dscl",
+      "sdcl",
+      "scdl",
+      "scld",
+      "dcsl",
+      "cdsl",
+      "csdl",
+      "csld",
+      "dcls",
+      "cdls"
+    ]
+  },
+  "du": {
+    "description": "Estimate file space usage",
+    "options": {},
+    "typo": [
+      "du",
+      "ud"
+    ]
+  },
+  "echo": {
+    "description": "Display text on screen •",
+    "options": {},
+    "typo": [
+      "echo",
+      "ceho",
+      "cheo",
+      "choe",
+      "ehco",
+      "heco",
+      "hceo",
+      "hcoe",
+      "ehoc",
+      "heoc"
+    ]
+  },
+  "ed": {
+    "description": "A line-oriented text editor (edlin)",
+    "options": {},
+    "typo": [
+      "ed",
+      "de"
+    ]
+  },
+  "enable": {
+    "description": "Enable and disable builtin shell commands •",
+    "options": {},
+    "typo": [
+      "enable",
+      "neable",
+      "naeble",
+      "nabele",
+      "nablee",
+      "nablee",
+      "eanble",
+      "aenble",
+      "aneble",
+      "anbele"
+    ]
+  },
+  "env": {
+    "description": "List or Set environment variables",
+    "options": {},
+    "typo": [
+      "env",
+      "nev",
+      "nve",
+      "evn",
+      "ven",
+      "vne"
+    ]
+  },
+  "eval": {
+    "description": "Evaluate several commands/arguments •",
+    "options": {},
+    "typo": [
+      "eval",
+      "veal",
+      "vael",
+      "vale",
+      "eavl",
+      "aevl",
+      "avel",
+      "avle",
+      "ealv",
+      "aelv"
+    ]
+  },
+  "exec": {
+    "description": "Execute a command •",
+    "options": {},
+    "typo": [
+      "exec",
+      "xeec",
+      "xeec",
+      "xece",
+      "eexc",
+      "eexc",
+      "exec",
+      "exce",
+      "eecx",
+      "eecx"
+    ]
+  },
+  "exit": {
+    "description": "Exit the shell •",
+    "options": {},
+    "typo": [
+      "exit",
+      "xeit",
+      "xiet",
+      "xite",
+      "eixt",
+      "iext",
+      "ixet",
+      "ixte",
+      "eitx",
+      "ietx"
+    ]
+  },
+  "execsnoop": {
+    "description": "Snoop new process execution",
+    "options": {},
+    "typo": [
+      "execsnoop",
+      "excesnoop",
+      "excsenoop",
+      "excsneoop",
+      "excsnoeop",
+      "exescnoop",
+      "exsecnoop",
+      "exscenoop",
+      "exscneoop",
+      "exscnoeop"
+    ]
+  },
+  "expand": {
+    "description": "Convert tabs to spaces",
+    "options": {},
+    "typo": [
+      "expand",
+      "xepand",
+      "xpeand",
+      "xpaend",
+      "xpaned",
+      "xpande",
+      "epxand",
+      "pexand",
+      "pxeand",
+      "pxaend"
+    ]
+  },
+  "expect": {
+    "description": "Programmed dialogue with interactive programs",
+    "options": {},
+    "typo": [
+      "expect",
+      "xepect",
+      "xpeect",
+      "xpeect",
+      "xpecet",
+      "xpecte",
+      "epxect",
+      "pexect",
+      "pxeect",
+      "pxeect"
+    ]
+  },
+  "export": {
+    "description": "Set an environment variable •",
+    "options": {},
+    "typo": [
+      "export",
+      "xeport",
+      "xpeort",
+      "xpoert",
+      "xporet",
+      "xporte",
+      "epxort",
+      "pexort",
+      "pxeort",
+      "pxoert"
+    ]
+  },
+  "expr": {
+    "description": "Evaluate expressions",
+    "options": {},
+    "typo": [
+      "expr",
+      "xepr",
+      "xper",
+      "xpre",
+      "epxr",
+      "pexr",
+      "pxer",
+      "pxre",
+      "eprx",
+      "perx"
+    ]
+  },
+  "false": {
+    "description": "Do nothing, unsuccessfully",
+    "options": {},
+    "typo": [
+      "false",
+      "aflse",
+      "alfse",
+      "alsfe",
+      "alsef",
+      "flase",
+      "lfase",
+      "lafse",
+      "lasfe",
+      "lasef"
+    ]
+  },
+  "fc": {
+    "description": "Fix command (history)",
+    "options": {},
+    "typo": [
+      "fc",
+      "cf"
+    ]
+  },
+  "fdisk": {
+    "description": "Partition table manipulator for Darwin UFS/HFS/DOS",
+    "options": {},
+    "typo": [
+      "fdisk",
+      "dfisk",
+      "difsk",
+      "disfk",
+      "diskf",
+      "fidsk",
+      "ifdsk",
+      "idfsk",
+      "idsfk",
+      "idskf"
+    ]
+  },
+  "fdesetup": {
+    "description": "FileVault configuration, list FileVault users",
+    "options": {},
+    "typo": [
+      "fdesetup",
+      "fdseetup",
+      "fdseetup",
+      "fdseteup",
+      "fdeestup",
+      "fdeestup",
+      "fdesetup",
+      "fdesteup",
+      "fdeetsup",
+      "fdeetsup"
+    ]
+  },
+  "fg": {
+    "description": "Send job to foreground •",
+    "options": {},
+    "typo": [
+      "fg",
+      "gf"
+    ]
+  },
+  "file": {
+    "description": "Determine file type",
+    "options": {},
+    "typo": [
+      "file",
+      "ifle",
+      "ilfe",
+      "ilef",
+      "flie",
+      "lfie",
+      "life",
+      "lief",
+      "flei",
+      "lfei"
+    ]
+  },
+  "find": {
+    "description": "Search for files that meet a desired criteria",
+    "options": {},
+    "typo": [
+      "find",
+      "ifnd",
+      "infd",
+      "indf",
+      "fnid",
+      "nfid",
+      "nifd",
+      "nidf",
+      "fndi",
+      "nfdi"
+    ]
+  },
+  "fmt": {
+    "description": "Reformat paragraph text",
+    "options": {},
+    "typo": [
+      "fmt",
+      "mft",
+      "mtf",
+      "ftm",
+      "tfm",
+      "tmf"
+    ]
+  },
+  "fold": {
+    "description": "Wrap text to fit a specified width",
+    "options": {},
+    "typo": [
+      "fold",
+      "ofld",
+      "olfd",
+      "oldf",
+      "flod",
+      "lfod",
+      "lofd",
+      "lodf",
+      "fldo",
+      "lfdo"
+    ]
+  },
+  "for": {
+    "description": "Loop command •",
+    "options": {},
+    "typo": [
+      "for",
+      "ofr",
+      "orf",
+      "fro",
+      "rfo",
+      "rof"
+    ]
+  },
+  "fsck": {
+    "description": "Filesystem consistency check and repair",
+    "options": {},
+    "typo": [
+      "fsck",
+      "sfck",
+      "scfk",
+      "sckf",
+      "fcsk",
+      "cfsk",
+      "csfk",
+      "cskf",
+      "fcks",
+      "cfks"
+    ]
+  },
+  "fs_usage": {
+    "description": "Filesystem usage (process/pathname)",
+    "options": {},
+    "typo": [
+      "fs_usage",
+      "fsu_sage",
+      "fsus_age",
+      "fsusa_ge",
+      "fs_suage",
+      "fss_uage",
+      "fssu_age",
+      "fssua_ge",
+      "fs_sauge",
+      "fss_auge"
+    ]
+  },
+  "ftp": {
+    "description": "Internet file transfer program",
+    "options": {},
+    "typo": [
+      "ftp",
+      "tfp",
+      "tpf",
+      "fpt",
+      "pft",
+      "ptf"
+    ]
+  },
+  "function": {
+    "description": "Define Function Macros",
+    "options": {},
+    "typo": [
+      "function",
+      "fucntion",
+      "fuctnion",
+      "fuctinon",
+      "funtcion",
+      "futncion",
+      "futcnion",
+      "futcinon",
+      "funticon",
+      "futnicon"
+    ]
+  },
+  "fuser": {
+    "description": "List processes that have one or more files open",
+    "options": {},
+    "typo": [
+      "fuser",
+      "ufser",
+      "usfer",
+      "usefr",
+      "userf",
+      "fsuer",
+      "sfuer",
+      "sufer",
+      "suefr",
+      "suerf"
+    ]
+  },
+  "GetFileInfo": {
+    "description": "Get attributes of HFS+ files",
+    "options": {},
+    "typo": [
+      "GetFileInfo",
+      "GeFtileInfo",
+      "GeFitleInfo",
+      "GeFilteInfo",
+      "GeFiletInfo",
+      "GeFileItnfo",
+      "GeFileIntfo",
+      "GetiFleInfo",
+      "GeitFleInfo",
+      "GeiFtleInfo"
+    ]
+  },
+  "getopt": {
+    "description": "Parse positional parameters",
+    "options": {},
+    "typo": [
+      "getopt",
+      "egtopt",
+      "etgopt",
+      "etogpt",
+      "etopgt",
+      "etoptg",
+      "gteopt",
+      "tgeopt",
+      "tegopt",
+      "teogpt"
+    ]
+  },
+  "getopts": {
+    "description": "Parse positional parameters •",
+    "options": {},
+    "typo": [
+      "getopts",
+      "geotpts",
+      "geoptts",
+      "getpots",
+      "geptots",
+      "gepotts"
+    ]
+  },
+  "goto": {
+    "description": "Jump to label and continue execution",
+    "options": {},
+    "typo": [
+      "goto",
+      "ogto",
+      "otgo",
+      "otog",
+      "gtoo",
+      "tgoo",
+      "togo",
+      "toog",
+      "gtoo",
+      "tgoo"
+    ]
+  },
+  "grep": {
+    "description": "Search file(s) for lines that match a given pattern",
+    "options": {},
+    "typo": [
+      "grep",
+      "rgep",
+      "regp",
+      "repg",
+      "gerp",
+      "egrp",
+      "ergp",
+      "erpg",
+      "gepr",
+      "egpr"
+    ]
+  },
+  "groups": {
+    "description": "Print group names a user is in",
+    "options": {},
+    "typo": [
+      "groups",
+      "rgoups",
+      "rogups",
+      "rougps",
+      "roupgs",
+      "roupsg",
+      "gorups",
+      "ogrups",
+      "orgups",
+      "orugps"
+    ]
+  },
+  "gzip": {
+    "description": "Compress or decompress files",
+    "options": {},
+    "typo": [
+      "gzip",
+      "zgip",
+      "zigp",
+      "zipg",
+      "gizp",
+      "igzp",
+      "izgp",
+      "izpg",
+      "gipz",
+      "igpz"
+    ]
+  },
+  "halt": {
+    "description": "Stop and restart the operating system",
+    "options": {},
+    "typo": [
+      "halt",
+      "ahlt",
+      "alht",
+      "alth",
+      "hlat",
+      "lhat",
+      "laht",
+      "lath",
+      "hlta",
+      "lhta"
+    ]
+  },
+  "hash": {
+    "description": "Refresh the cached/remembered location of commands •",
+    "options": {},
+    "typo": [
+      "hash",
+      "ahsh",
+      "ashh",
+      "ashh",
+      "hsah",
+      "shah",
+      "sahh",
+      "sahh",
+      "hsha",
+      "shha"
+    ]
+  },
+  "head": {
+    "description": "Display the first lines of a file",
+    "options": {},
+    "typo": [
+      "head",
+      "ehad",
+      "eahd",
+      "eadh",
+      "haed",
+      "ahed",
+      "aehd",
+      "aedh",
+      "hade",
+      "ahde"
+    ]
+  },
+  "hdiutil": {
+    "description": "Manipulate iso disk images",
+    "options": {},
+    "typo": [
+      "hdiutil",
+      "hduitil",
+      "hdutiil",
+      "hdituil",
+      "hdtiuil",
+      "hdtuiil"
+    ]
+  },
+  "history": {
+    "description": "Command History •",
+    "options": {},
+    "typo": [
+      "history",
+      "hitsory",
+      "hitosry",
+      "hisotry",
+      "hiostry",
+      "hiotsry"
+    ]
+  },
+  "hostname": {
+    "description": "Print or set system name",
+    "options": {},
+    "typo": [
+      "hostname",
+      "hotsname",
+      "hotnsame",
+      "hotnasme",
+      "hosntame",
+      "honstame",
+      "hontsame",
+      "hontasme",
+      "hosnatme",
+      "honsatme"
+    ]
+  },
+  "iconv": {
+    "description": "Convert the character set of a file",
+    "options": {},
+    "typo": [
+      "iconv",
+      "cionv",
+      "coinv",
+      "coniv",
+      "convi",
+      "iocnv",
+      "oicnv",
+      "ocinv",
+      "ocniv",
+      "ocnvi"
+    ]
+  },
+  "id": {
+    "description": "Print user and group names/id's",
+    "options": {},
+    "typo": [
+      "id",
+      "di"
+    ]
+  },
+  "if": {
+    "description": "Conditionally perform a command •",
+    "options": {},
+    "typo": [
+      "if",
+      "fi"
+    ]
+  },
+  "ifconfig": {
+    "description": "Configure network interface parameters",
+    "options": {},
+    "typo": [
+      "ifconfig",
+      "ifocnfig",
+      "ifoncfig",
+      "ifonfcig",
+      "ifcnofig",
+      "ifncofig",
+      "ifnocfig",
+      "ifnofcig",
+      "ifcnfoig",
+      "ifncfoig"
+    ]
+  },
+  "iostat": {
+    "description": "Report CPU and i/o statistics",
+    "options": {},
+    "typo": [
+      "iostat",
+      "oistat",
+      "ositat",
+      "ostiat",
+      "ostait",
+      "ostati",
+      "isotat",
+      "siotat",
+      "soitat",
+      "sotiat"
+    ]
+  },
+  "ipconfig": {
+    "description": "View and control IP configuration state",
+    "options": {},
+    "typo": [
+      "ipconfig",
+      "ipocnfig",
+      "iponcfig",
+      "iponfcig",
+      "ipcnofig",
+      "ipncofig",
+      "ipnocfig",
+      "ipnofcig",
+      "ipcnfoig",
+      "ipncfoig"
+    ]
+  },
+  "info": {
+    "description": "Help info",
+    "options": {},
+    "typo": [
+      "info",
+      "nifo",
+      "nfio",
+      "nfoi",
+      "ifno",
+      "fino",
+      "fnio",
+      "fnoi",
+      "ifon",
+      "fion"
+    ]
+  },
+  "install": {
+    "description": "Copy files and set attributes",
+    "options": {},
+    "typo": [
+      "install",
+      "intsall",
+      "intasll",
+      "insatll",
+      "inastll",
+      "inatsll"
+    ]
+  },
+  "installer": {
+    "description": "System software and .pkg package installer tool",
+    "options": {},
+    "typo": [
+      "installer",
+      "intsaller",
+      "intasller",
+      "intalsler",
+      "intallser",
+      "insatller",
+      "inastller",
+      "inatsller",
+      "inatlsler",
+      "inatllser"
+    ]
+  },
+  "iosnoop": {
+    "description": "Snoop I/O events as they occur",
+    "options": {},
+    "typo": [
+      "iosnoop",
+      "ionsoop",
+      "ionosop",
+      "iosonop",
+      "ioosnop",
+      "ioonsop"
+    ]
+  },
+  "jobs": {
+    "description": "List active jobs •",
+    "options": {},
+    "typo": [
+      "jobs",
+      "ojbs",
+      "objs",
+      "obsj",
+      "jbos",
+      "bjos",
+      "bojs",
+      "bosj",
+      "jbso",
+      "bjso"
+    ]
+  },
+  "join": {
+    "description": "Join lines on a common field",
+    "options": {},
+    "typo": [
+      "join",
+      "ojin",
+      "oijn",
+      "oinj",
+      "jion",
+      "ijon",
+      "iojn",
+      "ionj",
+      "jino",
+      "ijno"
+    ]
+  },
+  "kextfind": {
+    "description": "List kernel extensions",
+    "options": {},
+    "typo": [
+      "kextfind",
+      "ketxfind",
+      "ketfxind",
+      "ketfixnd",
+      "kexftind",
+      "kefxtind",
+      "keftxind",
+      "keftixnd",
+      "kexfitnd",
+      "kefxitnd"
+    ]
+  },
+  "kextstat": {
+    "description": "Display status of loaded kernel extensions (kexts)",
+    "options": {},
+    "typo": [
+      "kextstat",
+      "ketxstat",
+      "ketsxtat",
+      "ketstxat",
+      "kexsttat",
+      "kesxttat",
+      "kestxtat",
+      "kesttxat",
+      "kexsttat",
+      "kesxttat"
+    ]
+  },
+  "kextunload": {
+    "description": "Terminate driver instances and unload kernel extensions.",
+    "options": {},
+    "typo": [
+      "kextunload",
+      "ketxunload",
+      "ketuxnload",
+      "ketunxload",
+      "ketunlxoad",
+      "ketunloxad",
+      "kexutnload",
+      "keuxtnload",
+      "keutxnload",
+      "keutnxload"
+    ]
+  },
+  "keytool": {
+    "description": "Key and certificate management tool",
+    "options": {},
+    "typo": [
+      "keytool",
+      "ketyool",
+      "ketoyol",
+      "keyotol",
+      "keoytol",
+      "keotyol"
+    ]
+  },
+  "kickstart": {
+    "description": "Configure Apple Remote Desktop",
+    "options": {},
+    "typo": [
+      "kickstart",
+      "kikcstart",
+      "kiksctart",
+      "kikstcart",
+      "kikstacrt",
+      "kicsktart",
+      "kiscktart",
+      "kiskctart",
+      "kisktcart",
+      "kisktacrt"
+    ]
+  },
+  "kill": {
+    "description": "Kill a process by specifying its PID",
+    "options": {},
+    "typo": [
+      "kill",
+      "ikll",
+      "ilkl",
+      "illk",
+      "klil",
+      "lkil",
+      "likl",
+      "lilk",
+      "klli",
+      "lkli"
+    ]
+  },
+  "killall": {
+    "description": "Kill processes by name",
+    "options": {},
+    "typo": [
+      "killall",
+      "killall",
+      "kilalll",
+      "kilalll",
+      "kiallll",
+      "kiallll"
+    ]
+  },
+  "l": {
+    "description": "List files in long format (ls -l)",
+    "options": {},
+    "typo": [
+      "l"
+    ]
+  },
+  "last": {
+    "description": "Indicate last logins of users and ttys",
+    "options": {},
+    "typo": [
+      "last",
+      "alst",
+      "aslt",
+      "astl",
+      "lsat",
+      "slat",
+      "salt",
+      "satl",
+      "lsta",
+      "slta"
+    ]
+  },
+  "launchctl": {
+    "description": "Load or unload daemons/agents",
+    "options": {},
+    "typo": [
+      "launchctl",
+      "lanuchctl",
+      "lancuhctl",
+      "lanchuctl",
+      "lanchcutl",
+      "laucnhctl",
+      "lacunhctl",
+      "lacnuhctl",
+      "lacnhuctl",
+      "lacnhcutl"
+    ]
+  },
+  "ll": {
+    "description": "List files in long format, showing invisible files (ls -la)",
+    "options": {},
+    "typo": [
+      "ll",
+      "ll"
+    ]
+  },
+  "less": {
+    "description": "Display output one screen at a time",
+    "options": {},
+    "typo": [
+      "less",
+      "elss",
+      "esls",
+      "essl",
+      "lses",
+      "sles",
+      "sels",
+      "sesl",
+      "lsse",
+      "slse"
+    ]
+  },
+  "let": {
+    "description": "Evaluate expression •",
+    "options": {},
+    "typo": [
+      "let",
+      "elt",
+      "etl",
+      "lte",
+      "tle",
+      "tel"
+    ]
+  },
+  "lipo": {
+    "description": "Convert a universal binary",
+    "options": {},
+    "typo": [
+      "lipo",
+      "ilpo",
+      "iplo",
+      "ipol",
+      "lpio",
+      "plio",
+      "pilo",
+      "piol",
+      "lpoi",
+      "ploi"
+    ]
+  },
+  "ln": {
+    "description": "Make links between files (hard links, symbolic links)",
+    "options": {},
+    "typo": [
+      "ln",
+      "nl"
+    ]
+  },
+  "local": {
+    "description": "Set a local (function) variable •",
+    "options": {},
+    "typo": [
+      "local",
+      "olcal",
+      "oclal",
+      "ocall",
+      "ocall",
+      "lcoal",
+      "cloal",
+      "colal",
+      "coall",
+      "coall"
+    ]
+  },
+  "locate": {
+    "description": "Find files",
+    "options": {},
+    "typo": [
+      "locate",
+      "olcate",
+      "oclate",
+      "ocalte",
+      "ocatle",
+      "ocatel",
+      "lcoate",
+      "cloate",
+      "colate",
+      "coalte"
+    ]
+  },
+  "logname": {
+    "description": "Print current login name",
+    "options": {},
+    "typo": [
+      "logname",
+      "longame",
+      "lonagme",
+      "loganme",
+      "loagnme",
+      "loangme"
+    ]
+  },
+  "login": {
+    "description": "log into the computer",
+    "options": {},
+    "typo": [
+      "login",
+      "olgin",
+      "oglin",
+      "ogiln",
+      "oginl",
+      "lgoin",
+      "gloin",
+      "golin",
+      "goiln",
+      "goinl"
+    ]
+  },
+  "logout": {
+    "description": "Exit a login shell (bye) •",
+    "options": {},
+    "typo": [
+      "logout",
+      "olgout",
+      "oglout",
+      "ogolut",
+      "ogoult",
+      "ogoutl",
+      "lgoout",
+      "gloout",
+      "golout",
+      "goolut"
+    ]
+  },
+  "look": {
+    "description": "Display lines beginning with a given string",
+    "options": {},
+    "typo": [
+      "look",
+      "olok",
+      "oolk",
+      "ookl",
+      "look",
+      "olok",
+      "oolk",
+      "ookl",
+      "loko",
+      "olko"
+    ]
+  },
+  "lp": {
+    "description": "Print files",
+    "options": {},
+    "typo": [
+      "lp",
+      "pl"
+    ]
+  },
+  "lpr": {
+    "description": "Print files",
+    "options": {},
+    "typo": [
+      "lpr",
+      "plr",
+      "prl",
+      "lrp",
+      "rlp",
+      "rpl"
+    ]
+  },
+  "lprm": {
+    "description": "Remove jobs from the print queue",
+    "options": {},
+    "typo": [
+      "lprm",
+      "plrm",
+      "prlm",
+      "prml",
+      "lrpm",
+      "rlpm",
+      "rplm",
+      "rpml",
+      "lrmp",
+      "rlmp"
+    ]
+  },
+  "lpstat": {
+    "description": "Printer status information",
+    "options": {},
+    "typo": [
+      "lpstat",
+      "plstat",
+      "psltat",
+      "pstlat",
+      "pstalt",
+      "pstatl",
+      "lsptat",
+      "slptat",
+      "spltat",
+      "sptlat"
+    ]
+  },
+  "ls": {
+    "description": "List information about file(s)",
+    "options": {},
+    "typo": [
+      "ls",
+      "sl"
+    ]
+  },
+  "lsregister": {
+    "description": "Reset the Launch Services database",
+    "options": {},
+    "typo": [
+      "lsregister",
+      "lsergister",
+      "lsegrister",
+      "lsegirster",
+      "lsegisrter",
+      "lsegistrer",
+      "lsrgeister",
+      "lsgreister",
+      "lsgerister",
+      "lsgeirster"
+    ]
+  },
+  "lsbom": {
+    "description": "List a bill of materials file",
+    "options": {},
+    "typo": [
+      "lsbom",
+      "slbom",
+      "sblom",
+      "sbolm",
+      "sboml",
+      "lbsom",
+      "blsom",
+      "bslom",
+      "bsolm",
+      "bsoml"
+    ]
+  },
+  "lsof": {
+    "description": "List open files",
+    "options": {},
+    "typo": [
+      "lsof",
+      "slof",
+      "solf",
+      "sofl",
+      "losf",
+      "olsf",
+      "oslf",
+      "osfl",
+      "lofs",
+      "olfs"
+    ]
+  },
+  "man": {
+    "description": "Help manual",
+    "options": {},
+    "typo": [
+      "man",
+      "amn",
+      "anm",
+      "mna",
+      "nma",
+      "nam"
+    ]
+  },
+  "mdfind": {
+    "description": "Spotlight search",
+    "options": {},
+    "typo": [
+      "mdfind",
+      "dmfind",
+      "dfmind",
+      "dfimnd",
+      "dfinmd",
+      "dfindm",
+      "mfdind",
+      "fmdind",
+      "fdmind",
+      "fdimnd"
+    ]
+  },
+  "mdls": {
+    "description": "List the metadata attributes for a specified file",
+    "options": {},
+    "typo": [
+      "mdls",
+      "dmls",
+      "dlms",
+      "dlsm",
+      "mlds",
+      "lmds",
+      "ldms",
+      "ldsm",
+      "mlsd",
+      "lmsd"
+    ]
+  },
+  "mdutil": {
+    "description": "Manage Spotlight metadata store",
+    "options": {},
+    "typo": [
+      "mdutil",
+      "dmutil",
+      "dumtil",
+      "dutmil",
+      "dutiml",
+      "dutilm",
+      "mudtil",
+      "umdtil",
+      "udmtil",
+      "udtmil"
+    ]
+  },
+  "mkdir": {
+    "description": "Create new folder(s)",
+    "options": {},
+    "typo": [
+      "mkdir",
+      "kmdir",
+      "kdmir",
+      "kdimr",
+      "kdirm",
+      "mdkir",
+      "dmkir",
+      "dkmir",
+      "dkimr",
+      "dkirm"
+    ]
+  },
+  "mkfifo": {
+    "description": "Make FIFOs (named pipes)",
+    "options": {},
+    "typo": [
+      "mkfifo",
+      "kmfifo",
+      "kfmifo",
+      "kfimfo",
+      "kfifmo",
+      "kfifom",
+      "mfkifo",
+      "fmkifo",
+      "fkmifo",
+      "fkimfo"
+    ]
+  },
+  "mkfile": {
+    "description": "Make a file",
+    "options": {},
+    "typo": [
+      "mkfile",
+      "kmfile",
+      "kfmile",
+      "kfimle",
+      "kfilme",
+      "kfilem",
+      "mfkile",
+      "fmkile",
+      "fkmile",
+      "fkimle"
+    ]
+  },
+  "mktemp": {
+    "description": "Make a temporary file",
+    "options": {},
+    "typo": [
+      "mktemp",
+      "kmtemp",
+      "ktmemp",
+      "ktemmp",
+      "ktemmp",
+      "ktempm",
+      "mtkemp",
+      "tmkemp",
+      "tkmemp",
+      "tkemmp"
+    ]
+  },
+  "more": {
+    "description": "Display output one screen at a time",
+    "options": {},
+    "typo": [
+      "more",
+      "omre",
+      "orme",
+      "orem",
+      "mroe",
+      "rmoe",
+      "rome",
+      "roem",
+      "mreo",
+      "rmeo"
+    ]
+  },
+  "mount": {
+    "description": "Mount a file system",
+    "options": {},
+    "typo": [
+      "mount",
+      "omunt",
+      "oumnt",
+      "ounmt",
+      "ountm",
+      "muont",
+      "umont",
+      "uomnt",
+      "uonmt",
+      "uontm"
+    ]
+  },
+  "msgs": {
+    "description": "System messages",
+    "options": {},
+    "typo": [
+      "msgs",
+      "smgs",
+      "sgms",
+      "sgsm",
+      "mgss",
+      "gmss",
+      "gsms",
+      "gssm",
+      "mgss",
+      "gmss"
+    ]
+  },
+  "mtree": {
+    "description": "Map a directory hierarchy",
+    "options": {},
+    "typo": [
+      "mtree",
+      "tmree",
+      "trmee",
+      "treme",
+      "treem",
+      "mrtee",
+      "rmtee",
+      "rtmee",
+      "rteme",
+      "rteem"
+    ]
+  },
+  "mv": {
+    "description": "Move or rename files or directories",
+    "options": {},
+    "typo": [
+      "mv",
+      "vm"
+    ]
+  },
+  "nano": {
+    "description": "Simple text editor",
+    "options": {},
+    "typo": [
+      "nano",
+      "anno",
+      "anno",
+      "anon",
+      "nnao",
+      "nnao",
+      "nano",
+      "naon",
+      "nnoa",
+      "nnoa"
+    ]
+  },
+  "nc/netcat": {
+    "description": "Read and write data across networks",
+    "options": {},
+    "typo": [
+      "nc/netcat",
+      "ncn/etcat",
+      "ncne/tcat",
+      "ncnet/cat",
+      "ncnetc/at",
+      "nc/entcat",
+      "nce/ntcat",
+      "ncen/tcat",
+      "ncent/cat",
+      "ncentc/at"
+    ]
+  },
+  "net": {
+    "description": "Manage network resources",
+    "options": {},
+    "typo": [
+      "net",
+      "ent",
+      "etn",
+      "nte",
+      "tne",
+      "ten"
+    ]
+  },
+  "netstat": {
+    "description": "Show network status",
+    "options": {},
+    "typo": [
+      "netstat",
+      "nesttat",
+      "nesttat",
+      "nettsat",
+      "nettsat",
+      "netstat"
+    ]
+  },
+  "networksetup": {
+    "description": "Network and System Preferences",
+    "options": {},
+    "typo": [
+      "networksetup",
+      "newtorksetup",
+      "newotrksetup",
+      "newortksetup",
+      "neworktsetup",
+      "neworkstetup",
+      "neworksettup",
+      "neworksettup",
+      "netowrksetup",
+      "neotwrksetup"
+    ]
+  },
+  "nice": {
+    "description": "Set the priority of a command",
+    "options": {},
+    "typo": [
+      "nice",
+      "ince",
+      "icne",
+      "icen",
+      "ncie",
+      "cnie",
+      "cine",
+      "cien",
+      "ncei",
+      "cnei"
+    ]
+  },
+  "nohup": {
+    "description": "Run a command immune to hangups",
+    "options": {},
+    "typo": [
+      "nohup",
+      "onhup",
+      "ohnup",
+      "ohunp",
+      "ohupn",
+      "nhoup",
+      "hnoup",
+      "honup",
+      "hounp",
+      "houpn"
+    ]
+  },
+  "ntfs.util": {
+    "description": "NTFS file system utility",
+    "options": {},
+    "typo": [
+      "ntfs.util",
+      "ntsf.util",
+      "nts.futil",
+      "nts.uftil",
+      "nts.utfil",
+      "ntf.sutil",
+      "nt.fsutil",
+      "nt.sfutil",
+      "nt.suftil",
+      "nt.sutfil"
+    ]
+  },
+  "nvram": {
+    "description": "Manipulate  firmware variables",
+    "options": {},
+    "typo": [
+      "nvram",
+      "vnram",
+      "vrnam",
+      "vranm",
+      "vramn",
+      "nrvam",
+      "rnvam",
+      "rvnam",
+      "rvanm",
+      "rvamn"
+    ]
+  },
+  "onintr": {
+    "description": "Control the action of a shell interrupt",
+    "options": {},
+    "typo": [
+      "onintr",
+      "nointr",
+      "niontr",
+      "ninotr",
+      "nintor",
+      "nintro",
+      "oinntr",
+      "ionntr",
+      "inontr",
+      "innotr"
+    ]
+  },
+  "open": {
+    "description": "Open a file/folder/URL/Application",
+    "options": {},
+    "typo": [
+      "open",
+      "poen",
+      "peon",
+      "peno",
+      "oepn",
+      "eopn",
+      "epon",
+      "epno",
+      "oenp",
+      "eonp"
+    ]
+  },
+  "opensnoop": {
+    "description": "Snoop file opens as they occur",
+    "options": {},
+    "typo": [
+      "opensnoop",
+      "opnesnoop",
+      "opnsenoop",
+      "opnsneoop",
+      "opnsnoeop",
+      "opesnnoop",
+      "opsennoop",
+      "opsnenoop",
+      "opsnneoop",
+      "opsnnoeop"
+    ]
+  },
+  "openssl": {
+    "description": "OpenSSL command line",
+    "options": {},
+    "typo": [
+      "openssl",
+      "opnessl",
+      "opnsesl",
+      "opesnsl",
+      "opsensl",
+      "opsnesl"
+    ]
+  },
+  "osacompile": {
+    "description": "Compile Applescript",
+    "options": {},
+    "typo": [
+      "osacompile",
+      "oscaompile",
+      "oscoampile",
+      "oscomapile",
+      "oscompaile",
+      "oscompiale",
+      "osaocmpile",
+      "osoacmpile",
+      "osocampile",
+      "osocmapile"
+    ]
+  },
+  "osascript": {
+    "description": "Execute AppleScript",
+    "options": {},
+    "typo": [
+      "osascript",
+      "ossacript",
+      "osscaript",
+      "osscraipt",
+      "osscriapt",
+      "osacsript",
+      "oscasript",
+      "oscsaript",
+      "oscsraipt",
+      "oscsriapt"
+    ]
+  },
+  "passwd": {
+    "description": "Modify a user password",
+    "options": {},
+    "typo": [
+      "passwd",
+      "apsswd",
+      "aspswd",
+      "asspwd",
+      "asswpd",
+      "asswdp",
+      "psaswd",
+      "spaswd",
+      "sapswd",
+      "saspwd"
+    ]
+  },
+  "paste": {
+    "description": "Merge lines of files",
+    "options": {},
+    "typo": [
+      "paste",
+      "apste",
+      "aspte",
+      "astpe",
+      "astep",
+      "psate",
+      "spate",
+      "sapte",
+      "satpe",
+      "satep"
+    ]
+  },
+  "pbcopy": {
+    "description": "Copy data to the clipboard",
+    "options": {},
+    "typo": [
+      "pbcopy",
+      "bpcopy",
+      "bcpopy",
+      "bcoppy",
+      "bcoppy",
+      "bcopyp",
+      "pcbopy",
+      "cpbopy",
+      "cbpopy",
+      "cboppy"
+    ]
+  },
+  "pbpaste": {
+    "description": "Paste data from the Clipboard",
+    "options": {},
+    "typo": [
+      "pbpaste",
+      "pbapste",
+      "pbaspte",
+      "pbpsate",
+      "pbspate",
+      "pbsapte"
+    ]
+  },
+  "pbs": {
+    "description": "General helper tool",
+    "options": {},
+    "typo": [
+      "pbs",
+      "bps",
+      "bsp",
+      "psb",
+      "spb",
+      "sbp"
+    ]
+  },
+  "pdisk": {
+    "description": "Apple partition table editor",
+    "options": {},
+    "typo": [
+      "pdisk",
+      "dpisk",
+      "dipsk",
+      "dispk",
+      "diskp",
+      "pidsk",
+      "ipdsk",
+      "idpsk",
+      "idspk",
+      "idskp"
+    ]
+  },
+  "pgrep": {
+    "description": "List processes by a full or partial name",
+    "options": {},
+    "typo": [
+      "pgrep",
+      "gprep",
+      "grpep",
+      "grepp",
+      "grepp",
+      "prgep",
+      "rpgep",
+      "rgpep",
+      "rgepp",
+      "rgepp"
+    ]
+  },
+  "ping": {
+    "description": "Test a network connection",
+    "options": {},
+    "typo": [
+      "ping",
+      "ipng",
+      "inpg",
+      "ingp",
+      "pnig",
+      "npig",
+      "nipg",
+      "nigp",
+      "pngi",
+      "npgi"
+    ]
+  },
+  "pkill": {
+    "description": "Kill processes by a full or partial name",
+    "options": {},
+    "typo": [
+      "pkill",
+      "kpill",
+      "kipll",
+      "kilpl",
+      "killp",
+      "pikll",
+      "ipkll",
+      "ikpll",
+      "iklpl",
+      "ikllp"
+    ]
+  },
+  "pkgbuild": {
+    "description": "Build a macOS",
+    "options": {},
+    "typo": [
+      "pkgbuild",
+      "pkbguild",
+      "pkbugild",
+      "pkbuigld",
+      "pkgubild",
+      "pkugbild",
+      "pkubgild",
+      "pkubigld",
+      "pkguibld",
+      "pkugibld"
+    ]
+  },
+  "Installer": {
+    "description": "component package",
+    "options": {},
+    "typo": [
+      "Installer",
+      "Intsaller",
+      "Intasller",
+      "Intalsler",
+      "Intallser",
+      "Insatller",
+      "Inastller",
+      "Inatsller",
+      "Inatlsler",
+      "Inatllser"
+    ]
+  },
+  "pkgutil": {
+    "description": "plutil    Property list utility",
+    "options": {},
+    "typo": [
+      "pkgutil",
+      "pkugtil",
+      "pkutgil",
+      "pkgtuil",
+      "pktguil",
+      "pktugil"
+    ]
+  },
+  "pmset": {
+    "description": "Power Management settings",
+    "options": {},
+    "typo": [
+      "pmset",
+      "mpset",
+      "mspet",
+      "msept",
+      "msetp",
+      "psmet",
+      "spmet",
+      "smpet",
+      "smept",
+      "smetp"
+    ]
+  },
+  "popd": {
+    "description": "Restore the previous value of the current directory •",
+    "options": {},
+    "typo": [
+      "popd",
+      "oppd",
+      "oppd",
+      "opdp",
+      "ppod",
+      "ppod",
+      "popd",
+      "podp",
+      "ppdo",
+      "ppdo"
+    ]
+  },
+  "pr": {
+    "description": "Convert text files for printing",
+    "options": {},
+    "typo": [
+      "pr",
+      "rp"
+    ]
+  },
+  "printenv": {
+    "description": "List environment variables",
+    "options": {},
+    "typo": [
+      "printenv",
+      "prnitenv",
+      "prntienv",
+      "prnteinv",
+      "pritnenv",
+      "prtinenv",
+      "prtnienv",
+      "prtneinv",
+      "pritennv",
+      "prtiennv"
+    ]
+  },
+  "printf": {
+    "description": "Format and print data •",
+    "options": {},
+    "typo": [
+      "printf",
+      "rpintf",
+      "ripntf",
+      "rinptf",
+      "rintpf",
+      "rintfp",
+      "pirntf",
+      "iprntf",
+      "irpntf",
+      "irnptf"
+    ]
+  },
+  "ps": {
+    "description": "Process status",
+    "options": {},
+    "typo": [
+      "ps",
+      "sp"
+    ]
+  },
+  "pushd": {
+    "description": "Save and then change the current directory",
+    "options": {},
+    "typo": [
+      "pushd",
+      "upshd",
+      "usphd",
+      "ushpd",
+      "ushdp",
+      "psuhd",
+      "spuhd",
+      "suphd",
+      "suhpd",
+      "suhdp"
+    ]
+  },
+  "pwd": {
+    "description": "Print Working Directory •",
+    "options": {},
+    "typo": [
+      "pwd",
+      "wpd",
+      "wdp",
+      "pdw",
+      "dpw",
+      "dwp"
+    ]
+  },
+  "quota": {
+    "description": "Display disk usage and limits",
+    "options": {},
+    "typo": [
+      "quota",
+      "uqota",
+      "uoqta",
+      "uotqa",
+      "uotaq",
+      "qouta",
+      "oquta",
+      "ouqta",
+      "outqa",
+      "outaq"
+    ]
+  },
+  "rcp": {
+    "description": "Copy files between machines",
+    "options": {},
+    "typo": [
+      "rcp",
+      "crp",
+      "cpr",
+      "rpc",
+      "prc",
+      "pcr"
+    ]
+  },
+  "read": {
+    "description": "Read one line from standard input •",
+    "options": {},
+    "typo": [
+      "read",
+      "erad",
+      "eard",
+      "eadr",
+      "raed",
+      "ared",
+      "aerd",
+      "aedr",
+      "rade",
+      "arde"
+    ]
+  },
+  "readonly": {
+    "description": "Mark a variable or function as read-only •",
+    "options": {},
+    "typo": [
+      "readonly",
+      "redaonly",
+      "redoanly",
+      "redonaly",
+      "reaodnly",
+      "reoadnly",
+      "reodanly",
+      "reodnaly",
+      "reaondly",
+      "reoandly"
+    ]
+  },
+  "reboot": {
+    "description": "Stop and restart the system",
+    "options": {},
+    "typo": [
+      "reboot",
+      "erboot",
+      "ebroot",
+      "eborot",
+      "eboort",
+      "ebootr",
+      "rbeoot",
+      "breoot",
+      "beroot",
+      "beorot"
+    ]
+  },
+  "ReportCrash": {
+    "description": "Enable/Disable crash reporting",
+    "options": {},
+    "typo": [
+      "ReportCrash",
+      "ReoprtCrash",
+      "ReorptCrash",
+      "ReortpCrash",
+      "ReortCprash",
+      "ReortCrpash",
+      "ReortCrapsh",
+      "ReprotCrash",
+      "RerpotCrash",
+      "ReroptCrash"
+    ]
+  },
+  "return": {
+    "description": "Exit a function •",
+    "options": {},
+    "typo": [
+      "return",
+      "erturn",
+      "etrurn",
+      "eturrn",
+      "eturrn",
+      "eturnr",
+      "rteurn",
+      "treurn",
+      "terurn",
+      "teurrn"
+    ]
+  },
+  "rev": {
+    "description": "Reverse lines of a file",
+    "options": {},
+    "typo": [
+      "rev",
+      "erv",
+      "evr",
+      "rve",
+      "vre",
+      "ver"
+    ]
+  },
+  "rm": {
+    "description": "Remove files",
+    "options": {},
+    "typo": [
+      "rm",
+      "mr"
+    ]
+  },
+  "rmdir": {
+    "description": "Remove folder(s)",
+    "options": {},
+    "typo": [
+      "rmdir",
+      "mrdir",
+      "mdrir",
+      "mdirr",
+      "mdirr",
+      "rdmir",
+      "drmir",
+      "dmrir",
+      "dmirr",
+      "dmirr"
+    ]
+  },
+  "rpm": {
+    "description": "Remote Package Manager",
+    "options": {},
+    "typo": [
+      "rpm",
+      "prm",
+      "pmr",
+      "rmp",
+      "mrp",
+      "mpr"
+    ]
+  },
+  "rsync": {
+    "description": "Remote file copy - Sync file tree",
+    "options": {},
+    "typo": [
+      "rsync",
+      "srync",
+      "syrnc",
+      "synrc",
+      "syncr",
+      "rysnc",
+      "yrsnc",
+      "ysrnc",
+      "ysnrc",
+      "ysncr"
+    ]
+  },
+  "say": {
+    "description": "Convert text to audible speech",
+    "options": {},
+    "typo": [
+      "say",
+      "asy",
+      "ays",
+      "sya",
+      "ysa",
+      "yas"
+    ]
+  },
+  "screen": {
+    "description": "Multiplex terminal, run remote shells via ssh",
+    "options": {},
+    "typo": [
+      "screen",
+      "csreen",
+      "crseen",
+      "cresen",
+      "creesn",
+      "creens",
+      "srceen",
+      "rsceen",
+      "rcseen",
+      "rcesen"
+    ]
+  },
+  "screencapture": {
+    "description": "Capture screen image to file or disk",
+    "options": {},
+    "typo": [
+      "screencapture",
+      "screnecapture",
+      "screnceapture",
+      "screncaepture",
+      "screncapeture",
+      "screecnapture",
+      "screcenapture",
+      "screcneapture",
+      "screcnaepture",
+      "screcnapeture"
+    ]
+  },
+  "scselect": {
+    "description": "Switch between network locations",
+    "options": {},
+    "typo": [
+      "scselect",
+      "sceslect",
+      "scelsect",
+      "scelesct",
+      "scsleect",
+      "sclseect",
+      "sclesect",
+      "scleesct",
+      "scsleect",
+      "sclseect"
+    ]
+  },
+  "scutil": {
+    "description": "Manage system configuration parameters",
+    "options": {},
+    "typo": [
+      "scutil",
+      "csutil",
+      "custil",
+      "cutsil",
+      "cutisl",
+      "cutils",
+      "suctil",
+      "usctil",
+      "ucstil",
+      "uctsil"
+    ]
+  },
+  "sdiff": {
+    "description": "Merge two files interactively",
+    "options": {},
+    "typo": [
+      "sdiff",
+      "dsiff",
+      "disff",
+      "difsf",
+      "diffs",
+      "sidff",
+      "isdff",
+      "idsff",
+      "idfsf",
+      "idffs"
+    ]
+  },
+  "security": {
+    "description": "Administer Keychains, keys, certificates and the Security framework",
+    "options": {},
+    "typo": [
+      "security",
+      "seucrity",
+      "seurcity",
+      "seuricty",
+      "secruity",
+      "sercuity",
+      "serucity",
+      "seruicty",
+      "secriuty",
+      "serciuty"
+    ]
+  },
+  "sed": {
+    "description": "Stream Editor",
+    "options": {},
+    "typo": [
+      "sed",
+      "esd",
+      "eds",
+      "sde",
+      "dse",
+      "des"
+    ]
+  },
+  "select": {
+    "description": "Generate a list of items •",
+    "options": {},
+    "typo": [
+      "select",
+      "eslect",
+      "elsect",
+      "elesct",
+      "elecst",
+      "elects",
+      "sleect",
+      "lseect",
+      "lesect",
+      "leesct"
+    ]
+  },
+  "serverinfo": {
+    "description": "Server information",
+    "options": {},
+    "typo": [
+      "serverinfo",
+      "sevrerinfo",
+      "severrinfo",
+      "severrinfo",
+      "severirnfo",
+      "severinrfo",
+      "serevrinfo",
+      "seervrinfo",
+      "seevrrinfo",
+      "seevrrinfo"
+    ]
+  },
+  "set": {
+    "description": "Set a shell variable = value •",
+    "options": {},
+    "typo": [
+      "set",
+      "est",
+      "ets",
+      "ste",
+      "tse",
+      "tes"
+    ]
+  },
+  "setfile": {
+    "description": "Set attributes of HFS+ files",
+    "options": {},
+    "typo": [
+      "setfile",
+      "seftile",
+      "sefitle",
+      "setifle",
+      "seitfle",
+      "seiftle"
+    ]
+  },
+  "sharing": {
+    "description": "Create share points for afp, ftp and smb services",
+    "options": {},
+    "typo": [
+      "sharing",
+      "shraing",
+      "shriang",
+      "shairng",
+      "shiarng",
+      "shirang"
+    ]
+  },
+  "shasum": {
+    "description": "Print or Check SHA Checksums",
+    "options": {},
+    "typo": [
+      "shasum",
+      "hsasum",
+      "hassum",
+      "hassum",
+      "hasusm",
+      "hasums",
+      "sahsum",
+      "ashsum",
+      "ahssum",
+      "ahssum"
+    ]
+  },
+  "shift": {
+    "description": "Shift positional parameters •",
+    "options": {},
+    "typo": [
+      "shift",
+      "hsift",
+      "hisft",
+      "hifst",
+      "hifts",
+      "sihft",
+      "ishft",
+      "ihsft",
+      "ihfst",
+      "ihfts"
+    ]
+  },
+  "shopt": {
+    "description": "Set shell options •",
+    "options": {},
+    "typo": [
+      "shopt",
+      "hsopt",
+      "hospt",
+      "hopst",
+      "hopts",
+      "sohpt",
+      "oshpt",
+      "ohspt",
+      "ohpst",
+      "ohpts"
+    ]
+  },
+  "shutdown": {
+    "description": "Shutdown or restart macOS",
+    "options": {},
+    "typo": [
+      "shutdown",
+      "shtudown",
+      "shtduown",
+      "shtdouwn",
+      "shudtown",
+      "shdutown",
+      "shdtuown",
+      "shdtouwn",
+      "shudotwn",
+      "shduotwn"
+    ]
+  },
+  "sips": {
+    "description": "Scriptable image processing system",
+    "options": {},
+    "typo": [
+      "sips",
+      "isps",
+      "ipss",
+      "ipss",
+      "spis",
+      "psis",
+      "piss",
+      "piss",
+      "spsi",
+      "pssi"
+    ]
+  },
+  "sleep": {
+    "description": "Delay for a specified time",
+    "options": {},
+    "typo": [
+      "sleep",
+      "lseep",
+      "lesep",
+      "leesp",
+      "leeps",
+      "selep",
+      "eslep",
+      "elsep",
+      "elesp",
+      "eleps"
+    ]
+  },
+  "softwareupdate": {
+    "description": "System software update tool",
+    "options": {},
+    "typo": [
+      "softwareupdate",
+      "softawreupdate",
+      "softarweupdate",
+      "softarewupdate",
+      "softareuwpdate",
+      "softareupwdate",
+      "softwraeupdate",
+      "softrwaeupdate",
+      "softraweupdate",
+      "softraewupdate"
+    ]
+  },
+  "sort": {
+    "description": "Sort text files",
+    "options": {},
+    "typo": [
+      "sort",
+      "osrt",
+      "orst",
+      "orts",
+      "srot",
+      "rsot",
+      "rost",
+      "rots",
+      "srto",
+      "rsto"
+    ]
+  },
+  "source": {
+    "description": "Execute commands from a file •",
+    "options": {},
+    "typo": [
+      "source",
+      "osurce",
+      "ousrce",
+      "oursce",
+      "ourcse",
+      "ources",
+      "suorce",
+      "usorce",
+      "uosrce",
+      "uorsce"
+    ]
+  },
+  "spctl": {
+    "description": "Security assessment policy/Gatekeeper",
+    "options": {},
+    "typo": [
+      "spctl",
+      "psctl",
+      "pcstl",
+      "pctsl",
+      "pctls",
+      "scptl",
+      "csptl",
+      "cpstl",
+      "cptsl",
+      "cptls"
+    ]
+  },
+  "split": {
+    "description": "Split a file into fixed-size pieces",
+    "options": {},
+    "typo": [
+      "split",
+      "pslit",
+      "plsit",
+      "plist",
+      "plits",
+      "slpit",
+      "lspit",
+      "lpsit",
+      "lpist",
+      "lpits"
+    ]
+  },
+  "sqlite3": {
+    "description": "SQL database (download history)",
+    "options": {},
+    "typo": [
+      "sqlite3",
+      "sqilte3",
+      "sqitle3",
+      "sqltie3",
+      "sqtlie3",
+      "sqtile3"
+    ]
+  },
+  "srm": {
+    "description": "Securely remove files or directories",
+    "options": {},
+    "typo": [
+      "srm",
+      "rsm",
+      "rms",
+      "smr",
+      "msr",
+      "mrs"
+    ]
+  },
+  "stat": {
+    "description": "Display the status of a file",
+    "options": {},
+    "typo": [
+      "stat",
+      "tsat",
+      "tast",
+      "tats",
+      "satt",
+      "astt",
+      "atst",
+      "atts",
+      "satt",
+      "astt"
+    ]
+  },
+  "stop": {
+    "description": "Stop a job or process",
+    "options": {},
+    "typo": [
+      "stop",
+      "tsop",
+      "tosp",
+      "tops",
+      "sotp",
+      "ostp",
+      "otsp",
+      "otps",
+      "sopt",
+      "ospt"
+    ]
+  },
+  "su": {
+    "description": "Substitute user identity",
+    "options": {},
+    "typo": [
+      "su",
+      "us"
+    ]
+  },
+  "sudo": {
+    "description": "Execute a command as another user",
+    "options": {},
+    "typo": [
+      "sudo",
+      "usdo",
+      "udso",
+      "udos",
+      "sduo",
+      "dsuo",
+      "duso",
+      "duos",
+      "sdou",
+      "dsou"
+    ]
+  },
+  "sum": {
+    "description": "Print a checksum for a file",
+    "options": {},
+    "typo": [
+      "sum",
+      "usm",
+      "ums",
+      "smu",
+      "msu",
+      "mus"
+    ]
+  },
+  "suspend": {
+    "description": "Suspend execution of this shell •",
+    "options": {},
+    "typo": [
+      "suspend",
+      "supsend",
+      "supesnd",
+      "susepnd",
+      "suespnd",
+      "suepsnd"
+    ]
+  },
+  "sw_vers": {
+    "description": "Print macOS operating system version",
+    "options": {},
+    "typo": [
+      "sw_vers",
+      "swv_ers",
+      "swve_rs",
+      "sw_evrs",
+      "swe_vrs",
+      "swev_rs"
+    ]
+  },
+  "sysctl": {
+    "description": "Get or set kernel state",
+    "options": {},
+    "typo": [
+      "sysctl",
+      "yssctl",
+      "yssctl",
+      "yscstl",
+      "ysctsl",
+      "ysctls",
+      "ssyctl",
+      "ssyctl",
+      "sysctl",
+      "sycstl"
+    ]
+  },
+  "system_profiler": {
+    "description": "Report system configuration",
+    "options": {},
+    "typo": [
+      "system_profiler",
+      "systme_profiler",
+      "systm_eprofiler",
+      "systm_perofiler",
+      "systm_preofiler",
+      "systm_proefiler",
+      "systm_profeiler",
+      "syste_mprofiler",
+      "syst_emprofiler",
+      "syst_meprofiler"
+    ]
+  },
+  "systemsetup": {
+    "description": "Computer and display system settings",
+    "options": {},
+    "typo": [
+      "systemsetup",
+      "sytsemsetup",
+      "sytesmsetup",
+      "sytemssetup",
+      "sytemssetup",
+      "sytemsestup",
+      "sytemsetsup",
+      "sysetmsetup",
+      "syestmsetup",
+      "syetsmsetup"
+    ]
+  },
+  "tail": {
+    "description": "Output the last part of files",
+    "options": {},
+    "typo": [
+      "tail",
+      "atil",
+      "aitl",
+      "ailt",
+      "tial",
+      "ital",
+      "iatl",
+      "ialt",
+      "tila",
+      "itla"
+    ]
+  },
+  "tab2space": {
+    "description": "Expand tabs and ensure consistent cr/lf line endings",
+    "options": {},
+    "typo": [
+      "tab2space",
+      "ta2bspace",
+      "ta2sbpace",
+      "ta2spbace",
+      "ta2spabce",
+      "tabs2pace",
+      "tasb2pace",
+      "tas2bpace",
+      "tas2pbace",
+      "tas2pabce"
+    ]
+  },
+  "tar": {
+    "description": "Tape ARchiver",
+    "options": {},
+    "typo": [
+      "tar",
+      "atr",
+      "art",
+      "tra",
+      "rta",
+      "rat"
+    ]
+  },
+  "tccutil": {
+    "description": "Manage the privacy database",
+    "options": {},
+    "typo": [
+      "tccutil",
+      "tcuctil",
+      "tcutcil",
+      "tcctuil",
+      "tctcuil",
+      "tctucil"
+    ]
+  },
+  "tcpdump": {
+    "description": "Dump traffic on a network",
+    "options": {},
+    "typo": [
+      "tcpdump",
+      "tcdpump",
+      "tcdupmp",
+      "tcpudmp",
+      "tcupdmp",
+      "tcudpmp"
+    ]
+  },
+  "tee": {
+    "description": "Redirect output to multiple files",
+    "options": {},
+    "typo": [
+      "tee",
+      "ete",
+      "eet",
+      "tee",
+      "ete",
+      "eet"
+    ]
+  },
+  "test": {
+    "description": "Condition evaluation •",
+    "options": {},
+    "typo": [
+      "test",
+      "etst",
+      "estt",
+      "estt",
+      "tset",
+      "stet",
+      "sett",
+      "sett",
+      "tste",
+      "stte"
+    ]
+  },
+  "textutil": {
+    "description": "Manipulate text files in various formats (Doc,html,rtf)",
+    "options": {},
+    "typo": [
+      "textutil",
+      "tetxutil",
+      "tetuxtil",
+      "tetutxil",
+      "texuttil",
+      "teuxttil",
+      "teutxtil",
+      "teuttxil",
+      "texuttil",
+      "teuxttil"
+    ]
+  },
+  "time": {
+    "description": "Measure Program Resource Use",
+    "options": {},
+    "typo": [
+      "time",
+      "itme",
+      "imte",
+      "imet",
+      "tmie",
+      "mtie",
+      "mite",
+      "miet",
+      "tmei",
+      "mtei"
+    ]
+  },
+  "times": {
+    "description": "Print shell & shell process times •",
+    "options": {},
+    "typo": [
+      "times",
+      "itmes",
+      "imtes",
+      "imets",
+      "imest",
+      "tmies",
+      "mties",
+      "mites",
+      "miets",
+      "miest"
+    ]
+  },
+  "tmutil": {
+    "description": "Time Machine utility",
+    "options": {},
+    "typo": [
+      "tmutil",
+      "mtutil",
+      "muttil",
+      "muttil",
+      "mutitl",
+      "mutilt",
+      "tumtil",
+      "utmtil",
+      "umttil",
+      "umttil"
+    ]
+  },
+  "top": {
+    "description": "Display process information",
+    "options": {},
+    "typo": [
+      "top",
+      "otp",
+      "opt",
+      "tpo",
+      "pto",
+      "pot"
+    ]
+  },
+  "touch": {
+    "description": "Change file timestamps",
+    "options": {},
+    "typo": [
+      "touch",
+      "otuch",
+      "outch",
+      "oucth",
+      "oucht",
+      "tuoch",
+      "utoch",
+      "uotch",
+      "uocth",
+      "uocht"
+    ]
+  },
+  "tput": {
+    "description": "Set terminal-dependent capabilities, color, position",
+    "options": {},
+    "typo": [
+      "tput",
+      "ptut",
+      "putt",
+      "putt",
+      "tupt",
+      "utpt",
+      "uptt",
+      "uptt",
+      "tutp",
+      "uttp"
+    ]
+  },
+  "tr": {
+    "description": "Translate, squeeze, and/or delete characters",
+    "options": {},
+    "typo": [
+      "tr",
+      "rt"
+    ]
+  },
+  "trap": {
+    "description": "Execute a command when the shell receives a signal •",
+    "options": {},
+    "typo": [
+      "trap",
+      "rtap",
+      "ratp",
+      "rapt",
+      "tarp",
+      "atrp",
+      "artp",
+      "arpt",
+      "tapr",
+      "atpr"
+    ]
+  },
+  "traceroute": {
+    "description": "Trace Route to Host",
+    "options": {},
+    "typo": [
+      "traceroute",
+      "trcaeroute",
+      "trcearoute",
+      "trceraoute",
+      "trceroaute",
+      "trcerouate",
+      "traecroute",
+      "treacroute",
+      "trecaroute",
+      "trecraoute"
+    ]
+  },
+  "traceroute6": {
+    "description": "Trace IPv6 Route to Host",
+    "options": {},
+    "typo": [
+      "traceroute6",
+      "trcaeroute6",
+      "trcearoute6",
+      "trceraoute6",
+      "trceroaute6",
+      "trcerouate6",
+      "trceroutae6",
+      "traecroute6",
+      "treacroute6",
+      "trecaroute6"
+    ]
+  },
+  "trimforce": {
+    "description": "Enable TRIM commands on third-party drives",
+    "options": {},
+    "typo": [
+      "trimforce",
+      "trmiforce",
+      "trmfiorce",
+      "trmfoirce",
+      "trmforice",
+      "trifmorce",
+      "trfimorce",
+      "trfmiorce",
+      "trfmoirce",
+      "trfmorice"
+    ]
+  },
+  "true": {
+    "description": "Do nothing, successfully",
+    "options": {},
+    "typo": [
+      "true",
+      "rtue",
+      "rute",
+      "ruet",
+      "ture",
+      "utre",
+      "urte",
+      "uret",
+      "tuer",
+      "uter"
+    ]
+  },
+  "tty": {
+    "description": "Print filename of terminal on stdin",
+    "options": {},
+    "typo": [
+      "tty",
+      "tty",
+      "tyt",
+      "tyt",
+      "ytt",
+      "ytt"
+    ]
+  },
+  "type": {
+    "description": "Describe a command •",
+    "options": {},
+    "typo": [
+      "type",
+      "ytpe",
+      "ypte",
+      "ypet",
+      "tpye",
+      "ptye",
+      "pyte",
+      "pyet",
+      "tpey",
+      "ptey"
+    ]
+  },
+  "ufs.util": {
+    "description": "Mount/unmount UFS file system",
+    "options": {},
+    "typo": [
+      "ufs.util",
+      "uf.sutil",
+      "uf.ustil",
+      "uf.utsil",
+      "ufsu.til",
+      "ufus.til",
+      "ufu.stil",
+      "ufu.tsil",
+      "ufsut.il",
+      "ufust.il"
+    ]
+  },
+  "ulimit": {
+    "description": "limit the use of system-wide resources •",
+    "options": {},
+    "typo": [
+      "ulimit",
+      "luimit",
+      "liumit",
+      "limuit",
+      "limiut",
+      "limitu",
+      "uilmit",
+      "iulmit",
+      "ilumit",
+      "ilmuit"
+    ]
+  },
+  "umask": {
+    "description": "Users file creation mask",
+    "options": {},
+    "typo": [
+      "umask",
+      "muask",
+      "mausk",
+      "masuk",
+      "masku",
+      "uamsk",
+      "aumsk",
+      "amusk",
+      "amsuk",
+      "amsku"
+    ]
+  },
+  "umount": {
+    "description": "Unmount a device",
+    "options": {},
+    "typo": [
+      "umount",
+      "muount",
+      "mouunt",
+      "mouunt",
+      "mounut",
+      "mountu",
+      "uomunt",
+      "oumunt",
+      "omuunt",
+      "omuunt"
+    ]
+  },
+  "unalias": {
+    "description": "Remove an alias •",
+    "options": {},
+    "typo": [
+      "unalias",
+      "unlaias",
+      "unliaas",
+      "unailas",
+      "unialas",
+      "unilaas"
+    ]
+  },
+  "uname": {
+    "description": "Print the Darwin OS Kernel version / release / machine name",
+    "options": {},
+    "typo": [
+      "uname",
+      "nuame",
+      "naume",
+      "namue",
+      "nameu",
+      "uanme",
+      "aunme",
+      "anume",
+      "anmue",
+      "anmeu"
+    ]
+  },
+  "unexpand": {
+    "description": "Convert spaces to tabs",
+    "options": {},
+    "typo": [
+      "unexpand",
+      "unxepand",
+      "unxpeand",
+      "unxpaend",
+      "unepxand",
+      "unpexand",
+      "unpxeand",
+      "unpxaend",
+      "unepaxnd",
+      "unpeaxnd"
+    ]
+  },
+  "uniq": {
+    "description": "Uniquify files",
+    "options": {},
+    "typo": [
+      "uniq",
+      "nuiq",
+      "niuq",
+      "niqu",
+      "uinq",
+      "iunq",
+      "inuq",
+      "inqu",
+      "uiqn",
+      "iuqn"
+    ]
+  },
+  "units": {
+    "description": "Convert units from one scale to another",
+    "options": {},
+    "typo": [
+      "units",
+      "nuits",
+      "niuts",
+      "nitus",
+      "nitsu",
+      "uints",
+      "iunts",
+      "inuts",
+      "intus",
+      "intsu"
+    ]
+  },
+  "unset": {
+    "description": "Remove variable or function names •",
+    "options": {},
+    "typo": [
+      "unset",
+      "nuset",
+      "nsuet",
+      "nseut",
+      "nsetu",
+      "usnet",
+      "sunet",
+      "snuet",
+      "sneut",
+      "snetu"
+    ]
+  },
+  "until": {
+    "description": "Execute commands (until error)",
+    "options": {},
+    "typo": [
+      "until",
+      "nutil",
+      "ntuil",
+      "ntiul",
+      "ntilu",
+      "utnil",
+      "tunil",
+      "tnuil",
+      "tniul",
+      "tnilu"
+    ]
+  },
+  "uptime": {
+    "description": "Show how long system has been running",
+    "options": {},
+    "typo": [
+      "uptime",
+      "putime",
+      "ptuime",
+      "ptiume",
+      "ptimue",
+      "ptimeu",
+      "utpime",
+      "tupime",
+      "tpuime",
+      "tpiume"
+    ]
+  },
+  "users": {
+    "description": "Print login names of users currently logged in",
+    "options": {},
+    "typo": [
+      "users",
+      "suers",
+      "seurs",
+      "serus",
+      "sersu",
+      "uesrs",
+      "eusrs",
+      "esurs",
+      "esrus",
+      "esrsu"
+    ]
+  },
+  "uuencode": {
+    "description": "Encode a binary file",
+    "options": {},
+    "typo": [
+      "uuencode",
+      "uunecode",
+      "uunceode",
+      "uuncoede",
+      "uuecnode",
+      "uucenode",
+      "uucneode",
+      "uucnoede",
+      "uueconde",
+      "uuceonde"
+    ]
+  },
+  "uudecode": {
+    "description": "Decode a file created by uuencode",
+    "options": {},
+    "typo": [
+      "uudecode",
+      "uuedcode",
+      "uuecdode",
+      "uuecodde",
+      "uudceode",
+      "uucdeode",
+      "uucedode",
+      "uuceodde",
+      "uudcoede",
+      "uucdoede"
+    ]
+  },
+  "uuidgen": {
+    "description": "Generate a Unique ID (UUID/GUID)",
+    "options": {},
+    "typo": [
+      "uuidgen",
+      "uudigen",
+      "uudgien",
+      "uuigden",
+      "uugiden",
+      "uugdien"
+    ]
+  },
+  "uucp": {
+    "description": "Unix to Unix copy",
+    "options": {},
+    "typo": [
+      "uucp",
+      "uucp",
+      "ucup",
+      "ucpu",
+      "ucup",
+      "cuup",
+      "cuup",
+      "cupu",
+      "ucpu",
+      "cupu"
+    ]
+  },
+  "vi": {
+    "description": "Text Editor",
+    "options": {},
+    "typo": [
+      "vi",
+      "iv"
+    ]
+  },
+  "w": {
+    "description": "Show who is logged on and what they are doing",
+    "options": {},
+    "typo": [
+      "w"
+    ]
+  },
+  "wait": {
+    "description": "Wait for a process to complete •",
+    "options": {},
+    "typo": [
+      "wait",
+      "awit",
+      "aiwt",
+      "aitw",
+      "wiat",
+      "iwat",
+      "iawt",
+      "iatw",
+      "wita",
+      "iwta"
+    ]
+  },
+  "wait4path": {
+    "description": "Wait for given path to show up in the namespace",
+    "options": {},
+    "typo": [
+      "wait4path",
+      "wati4path",
+      "wat4ipath",
+      "wat4piath",
+      "wat4paith",
+      "wai4tpath",
+      "wa4itpath",
+      "wa4tipath",
+      "wa4tpiath",
+      "wa4tpaith"
+    ]
+  },
+  "wall": {
+    "description": "Write a message to users",
+    "options": {},
+    "typo": [
+      "wall",
+      "awll",
+      "alwl",
+      "allw",
+      "wlal",
+      "lwal",
+      "lawl",
+      "lalw",
+      "wlla",
+      "lwla"
+    ]
+  },
+  "wc": {
+    "description": "Print byte, word, and line counts",
+    "options": {},
+    "typo": [
+      "wc",
+      "cw"
+    ]
+  },
+  "whatis": {
+    "description": "Search the whatis database for complete words",
+    "options": {},
+    "typo": [
+      "whatis",
+      "hwatis",
+      "hawtis",
+      "hatwis",
+      "hatiws",
+      "hatisw",
+      "wahtis",
+      "awhtis",
+      "ahwtis",
+      "ahtwis"
+    ]
+  },
+  "whereis": {
+    "description": "Locate a program",
+    "options": {},
+    "typo": [
+      "whereis",
+      "whreeis",
+      "whreeis",
+      "wheeris",
+      "wheeris",
+      "whereis"
+    ]
+  },
+  "which": {
+    "description": "Locate a program file in the user's path",
+    "options": {},
+    "typo": [
+      "which",
+      "hwich",
+      "hiwch",
+      "hicwh",
+      "hichw",
+      "wihch",
+      "iwhch",
+      "ihwch",
+      "ihcwh",
+      "ihchw"
+    ]
+  },
+  "while": {
+    "description": "Loop command •",
+    "options": {},
+    "typo": [
+      "while",
+      "hwile",
+      "hiwle",
+      "hilwe",
+      "hilew",
+      "wihle",
+      "iwhle",
+      "ihwle",
+      "ihlwe",
+      "ihlew"
+    ]
+  },
+  "who": {
+    "description": "Print all usernames currently logged on",
+    "options": {},
+    "typo": [
+      "who",
+      "hwo",
+      "how",
+      "woh",
+      "owh",
+      "ohw"
+    ]
+  },
+  "whoami": {
+    "description": "Print the current user id and name (`id -un')",
+    "options": {},
+    "typo": [
+      "whoami",
+      "hwoami",
+      "howami",
+      "hoawmi",
+      "hoamwi",
+      "hoamiw",
+      "wohami",
+      "owhami",
+      "ohwami",
+      "ohawmi"
+    ]
+  },
+  "write": {
+    "description": "Send a message to another user",
+    "options": {},
+    "typo": [
+      "write",
+      "rwite",
+      "riwte",
+      "ritwe",
+      "ritew",
+      "wirte",
+      "iwrte",
+      "irwte",
+      "irtwe",
+      "irtew"
+    ]
+  },
+  "xargs": {
+    "description": "Execute utility - passing arguments",
+    "options": {},
+    "typo": [
+      "xargs",
+      "axrgs",
+      "arxgs",
+      "argxs",
+      "argsx",
+      "xrags",
+      "rxags",
+      "raxgs",
+      "ragxs",
+      "ragsx"
+    ]
+  },
+  "xattr": {
+    "description": "Display and manipulate extended attributes",
+    "options": {},
+    "typo": [
+      "xattr",
+      "axttr",
+      "atxtr",
+      "attxr",
+      "attrx",
+      "xtatr",
+      "txatr",
+      "taxtr",
+      "tatxr",
+      "tatrx"
+    ]
+  },
+  "youtube-dl": {
+    "description": "Download video",
+    "options": {},
+    "typo": [
+      "youtube-dl",
+      "yotuube-dl",
+      "yotuube-dl",
+      "yotubue-dl",
+      "yotubeu-dl",
+      "yotube-udl",
+      "youutbe-dl",
+      "youutbe-dl",
+      "youtube-dl",
+      "youtbue-dl"
+    ]
+  },
+  "yes": {
+    "description": "Print a string until interrupted",
+    "options": {},
+    "typo": [
+      "yes",
+      "eys",
+      "esy",
+      "yse",
+      "sye",
+      "sey"
+    ]
+  },
+  "zip": {
+    "description": "Package and compress (archive) files.",
+    "options": {},
+    "typo": [
+      "zip",
+      "izp",
+      "ipz",
+      "zpi",
+      "pzi",
+      "piz"
+    ]
+  }
+}
